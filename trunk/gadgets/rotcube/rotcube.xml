@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?> 
 <Module>
 
-  <ModulePrefs title="WebGL Rot Cube Vicomtech" /> 
-  <view width="500" height="500">
+  <ModulePrefs title="WebGL Rot Cube Vicomtech" height="500"/> 
   <Content type="html">
      <![CDATA[ 
 
@@ -383,5 +382,4 @@
 </html>
      ]]>
   </Content> 
-</view>
 </Module>
