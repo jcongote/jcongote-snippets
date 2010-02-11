@@ -247,7 +247,7 @@ function makeOrtho(left, right, bottom, top, znear, zfar)
     } catch(e) {
     }
     if (!gl) {
-      alert("Could not initialise WebGL, sorry :-(");
+      //alert("Could not initialise WebGL, sorry :-(");
     }
   }
 
@@ -280,7 +280,7 @@ function makeOrtho(left, right, bottom, top, znear, zfar)
     gl.compileShader(shader);
 
     if (!gl.getShaderParameter(shader, gl.COMPILE_STATUS)) {
-      alert(gl.getShaderInfoLog(shader));
+      //alert(gl.getShaderInfoLog(shader));
       return null;
     }
 
@@ -299,7 +299,7 @@ function makeOrtho(left, right, bottom, top, znear, zfar)
     gl.linkProgram(shaderProgram);
 
     if (!gl.getProgramParameter(shaderProgram, gl.LINK_STATUS)) {
-      alert("Could not initialise shaders");
+      //alert("Could not initialise shaders");
     }
 
     gl.useProgram(shaderProgram);
