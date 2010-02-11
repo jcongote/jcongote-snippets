@@ -137,7 +137,7 @@
       handleLoadedTexture(neheImage, neheTexture)
     }
 
-    neheImage.src = "http://www.vicomtech.es/animacion/images/vicomtech_entrada.png";
+    neheImage.src = "./jcongote.jpg";
   }
 
 
