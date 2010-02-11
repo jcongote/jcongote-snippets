@@ -137,7 +137,7 @@
       handleLoadedTexture(neheImage, neheTexture)
     }
 
-    neheImage.src = "./jcongote.jpg";
+    neheImage.src = "http://jcongote-snippets.googlecode.com/svn/trunk/gadgets/rotcube/jcongote.jpg";
   }
 
 
