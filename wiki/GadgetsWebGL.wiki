@@ -11,3 +11,7 @@ I suppose that WebGL could be used with google gadgets... so I made this example
 = Details =
 
 Nothins special in the code... just... the gadget ;)
+
+= External Gadget =
+
+<wiki:gadget url="http://parallell.googlecode.com/svn/trunk/gadget.xml" width="300" height="300" border="2" />
