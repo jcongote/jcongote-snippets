@@ -1,0 +1,13 @@
+#labels Featured,webgl
+#WebGL Gadgets
+
+= Introduction =
+
+I suppose that WebGL could be used with google gadgets... so I made this example.
+
+<wiki:gadget url="http://jcongote-snippets.googlecode.com/svn/trunk/gadgets/rotcube/rotcube.xml" width="500" height="500" border="2" />
+
+
+= Details =
+
+Nothins special in the code... just... the gadget ;)
